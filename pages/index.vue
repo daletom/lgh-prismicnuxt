@@ -35,7 +35,7 @@
         <p>{{ $prismic.asText(post.data.content) }}</p>
       </div>
       <div class="p-4 pt-16 lg:w-1/3 md:w-1/2 sm:w-full">
-      <video loading="lazy" muted playsinline autoplay src="https://storage.googleapis.com/adforum-media/34489704/ad_34489704_557e58100e2d3f8a_web.mp4"></video>
+      <video loading="lazy" muted playsinline autoplay src="https://tom.imgix.net/nissan_stormtrooper.mp4"></video>
       <p>Mock Video Ad from Nissan</p>
       </div>
     </div>
